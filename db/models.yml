@@ -1,3 +1,15 @@
+Student:
+ - first_name: string
+ - last_name: string
+ - favorite_color: string
+ - bio: text
+
+Book:
+ - title: string
+ - author: string
+ - summary: text
+ - hardcover: boolean
+
 # Example table for a typical Book model.
 #
 # Book:
